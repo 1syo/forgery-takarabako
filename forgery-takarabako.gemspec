@@ -7,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "forgery-takarabako"
   spec.version       = Forgery::Takarabako::VERSION
   spec.authors       = ["TAKAHASHI Kazunari"]
-  spec.email         = ["ktakahashi@aiming-inc.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.email         = ["takahashi@1syo.net"]
+  spec.description   = %q{The forgery-takarabako is forgery plugin using takarabako.gem}
+  spec.summary       = %q{The forgery-takarabako is forgery plugin using takarabako.gem}
   spec.homepage      = ""
   spec.license       = "MIT"
 

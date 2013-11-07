@@ -1,6 +1,6 @@
 # Forgery::Takarabako
 
-TODO: Write a gem description
+The forgery-takarabako is forgery plugin using takarabako.gem
 
 ## Installation
 
@@ -18,7 +18,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    Forgery::Takarabako.open #=> 異世界の王の靴
+Or
+
+    Forgery(:takarabako).open #=> インフィニティランス
 
 ## Contributing
 
