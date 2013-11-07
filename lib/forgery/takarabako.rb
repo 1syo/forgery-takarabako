@@ -1,7 +1,11 @@
+require "forgery"
+require "takarabako"
 require "forgery/takarabako/version"
 
-module Forgery
-  module Takarabako
-    # Your code goes here...
+class Forgery
+  class Takarabako
+    def self.open
+      ::Takarabako.open
+    end
   end
 end
