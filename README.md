@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/1syo/forgery-takarabako.png?branch=master)](https://travis-ci.org/1syo/forgery-takarabako)
+
 # Forgery::Takarabako
 
 The forgery-takarabako is forgery plugin using takarabako.gem
